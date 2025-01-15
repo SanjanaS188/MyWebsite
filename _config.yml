@@ -134,10 +134,11 @@ googlefonts:
 
 chulapa-skin: 
   highlight     : github  # A nice syntax highlighting theme
-  skin          : sunset  # A predefined skin from Chulapa
+  skin          : pear  # A predefined skin from Chulapa
   autothemer    : false   # Disable autothemer since we're using a predefined skin
   vars          :    
-    primary     : "#ffbe98" # Your custom primary color
+    primary     : "#de6a62" # Your custom primary color
+    bg-image    : "/assets/bg_image.jpeg"
 
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
